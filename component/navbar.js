@@ -10,7 +10,7 @@ const Navbar = () => {
                     <Link href='/'><Image src='/logo.jpg' width={200} height={50}></Image></Link>
                 </div>
                 <div>
-                    <ul className='flex space-x-12 font-bold text-gray-600'>
+                    <ul className='flex text-lg space-x-12 font-bold text-gray-600'>
                         <Link href='/aboutus'><li className='hover:text-blue-500 cursor-pointer'>About Us</li></Link>
                         <Link href='/services'><li className='hover:text-blue-500 cursor-pointer'>Services</li></Link>
                         <Link href='/experties'><li className='hover:text-blue-500 cursor-pointer'>Experties</li></Link>

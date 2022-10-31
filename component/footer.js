@@ -10,11 +10,8 @@ const Footer = () => {
           <li>HOME</li>
           <li>HOME</li>
           <li>HOME</li>
-         
         </ul>
-      
       </div>
-
     </div>
   )
 }
